@@ -1,16 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "03FBA65DEFA3415BACBF70D6E6651A62049C3245",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F2307D2C3F0630538BF97CCA488732748715B34C",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "03FBA65DEFA3415BACBF70D6E6651A62049C3245" : 9223372036854775807,
-    "71F5D8D885CFF6BD7151066D7BFF25CC48A5235E" : 9223372036854775807
+    "71F5D8D885CFF6BD7151066D7BFF25CC48A5235E" : 9223372036854775807,
+    "F2307D2C3F0630538BF97CCA488732748715B34C" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "18BBBD8B-0446-479A-AFCC-539064DF89F2",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "03FBA65DEFA3415BACBF70D6E6651A62049C3245" : "MEspI\/",
-    "71F5D8D885CFF6BD7151066D7BFF25CC48A5235E" : "MEspI\/MapGame\/Spring\/"
+    "71F5D8D885CFF6BD7151066D7BFF25CC48A5235E" : "GameEnglish\/MapGame\/Spring\/",
+    "F2307D2C3F0630538BF97CCA488732748715B34C" : "GameEnglish\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "MapGame",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -25,6 +27,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MengTo\/Spring",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71F5D8D885CFF6BD7151066D7BFF25CC48A5235E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/noivuathui\/GameEnglish.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F2307D2C3F0630538BF97CCA488732748715B34C"
     }
   ]
 }

@@ -35,7 +35,7 @@
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="64"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Learning" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9Ph-No-VSW">
-                                        <rect key="frame" x="131.5" y="22.5" width="112" height="20.5"/>
+                                        <rect key="frame" x="131.5" y="22" width="112" height="20.5"/>
                                         <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="10"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
@@ -81,7 +81,7 @@
                                                                 </connections>
                                                             </button>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Take Photo" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kyh-kJ-xkq">
-                                                                <rect key="frame" x="29" y="115" width="128" height="18.5"/>
+                                                                <rect key="frame" x="29.5" y="115" width="128" height="18.5"/>
                                                                 <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="9"/>
                                                                 <color key="textColor" red="1" green="0.50196081400000003" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                                                 <nil key="highlightedColor"/>
@@ -106,7 +106,7 @@
                                                                 <state key="normal" backgroundImage="icon_texxt_to_speak"/>
                                                             </button>
                                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Text To Speak" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pYf-W5-5VI">
-                                                                <rect key="frame" x="14" y="115" width="160" height="18.5"/>
+                                                                <rect key="frame" x="13.5" y="115" width="160" height="18.5"/>
                                                                 <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="9"/>
                                                                 <color key="textColor" red="0.0" green="1" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
                                                                 <nil key="highlightedColor"/>
@@ -143,7 +143,7 @@
                                                         <state key="normal" backgroundImage="icon_speak"/>
                                                     </button>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Speak To Text" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DRZ-5h-k14">
-                                                        <rect key="frame" x="107" y="115.5" width="160" height="18.5"/>
+                                                        <rect key="frame" x="107.5" y="115.5" width="160" height="18.5"/>
                                                         <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="9"/>
                                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                         <nil key="highlightedColor"/>
@@ -266,7 +266,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="375" height="64"/>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Game Treasure" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GMx-PF-o0E">
-                                        <rect key="frame" x="93.5" y="22.5" width="188" height="20.5"/>
+                                        <rect key="frame" x="94" y="22" width="188" height="20.5"/>
                                         <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="10"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
@@ -559,7 +559,7 @@
                                                 </connections>
                                             </button>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Camera" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mfy-1z-EQd">
-                                                <rect key="frame" x="39" y="159" width="109" height="24.5"/>
+                                                <rect key="frame" x="39.5" y="159" width="109" height="24.5"/>
                                                 <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="12"/>
                                                 <color key="textColor" red="0.76862745098039209" green="0.23921568627450979" blue="0.23921568627450979" alpha="1" colorSpace="calibratedRGB"/>
                                                 <nil key="highlightedColor"/>
@@ -611,7 +611,7 @@
                                                 </connections>
                                             </button>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Video" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GDa-QB-df6">
-                                                <rect key="frame" x="53" y="157" width="82" height="24.5"/>
+                                                <rect key="frame" x="53.5" y="157" width="82" height="24.5"/>
                                                 <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="12"/>
                                                 <color key="textColor" red="0.76862745098039209" green="0.23921568627450979" blue="0.23921568627450979" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <nil key="highlightedColor"/>
@@ -637,7 +637,7 @@
                                                 </connections>
                                             </button>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Profile" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="L7G-oq-udf">
-                                                <rect key="frame" x="36.5" y="158" width="114.5" height="24.5"/>
+                                                <rect key="frame" x="37" y="158" width="114.5" height="24.5"/>
                                                 <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="12"/>
                                                 <color key="textColor" red="0.76862745098039209" green="0.23921568627450979" blue="0.23921568627450979" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <nil key="highlightedColor"/>
@@ -714,7 +714,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="375" height="64"/>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Game" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="q7m-fh-67H">
-                                        <rect key="frame" x="158" y="22" width="60" height="20.5"/>
+                                        <rect key="frame" x="158" y="22.5" width="60" height="20.5"/>
                                         <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="10"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
@@ -789,7 +789,7 @@
                                                         </connections>
                                                     </button>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Write Words" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eO4-6N-AZI">
-                                                        <rect key="frame" x="15.5" y="120.5" width="157" height="20.5"/>
+                                                        <rect key="frame" x="16" y="120.5" width="157" height="20.5"/>
                                                         <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="10"/>
                                                         <color key="textColor" red="0.0" green="0.25098040700000002" blue="0.50196081400000003" alpha="1" colorSpace="calibratedRGB"/>
                                                         <nil key="highlightedColor"/>
@@ -873,7 +873,7 @@
                                         </constraints>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Tai" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GfQ-vf-fyz">
-                                        <rect key="frame" x="169" y="120" width="39" height="20.5"/>
+                                        <rect key="frame" x="168.5" y="120" width="39" height="20.5"/>
                                         <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="10"/>
                                         <color key="textColor" red="1" green="0.26253983939999997" blue="0.83554925120000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <nil key="highlightedColor"/>
@@ -906,7 +906,7 @@
                                         <state key="normal" backgroundImage="icon_home"/>
                                     </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Profile" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YBd-MA-NCd">
-                                        <rect key="frame" x="140.5" y="22.5" width="95.5" height="20.5"/>
+                                        <rect key="frame" x="140.5" y="22" width="95.5" height="20.5"/>
                                         <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="10"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
@@ -941,13 +941,13 @@
                                         <rect key="frame" x="0.0" y="0.0" width="125" height="65"/>
                                         <subviews>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Take photo" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XWd-lf-DyM">
-                                                <rect key="frame" x="13" y="15.5" width="99.5" height="14.5"/>
+                                                <rect key="frame" x="13.5" y="15.5" width="99.5" height="14.5"/>
                                                 <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="7"/>
                                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="30" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pWZ-0L-62c">
-                                                <rect key="frame" x="50.5" y="34.5" width="23" height="16.5"/>
+                                                <rect key="frame" x="51.5" y="34.5" width="23" height="16.5"/>
                                                 <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="8"/>
                                                 <color key="textColor" red="0.99019607840000001" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <nil key="highlightedColor"/>
@@ -1013,7 +1013,7 @@
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="20" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3Wg-J9-I5G">
-                                                <rect key="frame" x="50" y="34.5" width="25.5" height="16.5"/>
+                                                <rect key="frame" x="50.5" y="34.5" width="25.5" height="16.5"/>
                                                 <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="8"/>
                                                 <color key="textColor" red="0.99019607840000001" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <nil key="highlightedColor"/>
@@ -1153,7 +1153,7 @@
                                         <rect key="frame" x="0.0" y="0.0" width="375" height="64"/>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Words" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zrW-pU-864">
-                                        <rect key="frame" x="148.5" y="22.5" width="79.5" height="20.5"/>
+                                        <rect key="frame" x="148" y="22" width="79.5" height="20.5"/>
                                         <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="10"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
@@ -1241,7 +1241,7 @@
                                         <color key="tintColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                     </imageView>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Theme Video" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RvP-Me-1lk">
-                                        <rect key="frame" x="113" y="22" width="150" height="20.5"/>
+                                        <rect key="frame" x="113" y="22.5" width="150" height="20.5"/>
                                         <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="10"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
@@ -1357,7 +1357,7 @@
                                         <state key="normal" backgroundImage="icon_back"/>
                                     </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Animal" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VbQ-Ih-u3p">
-                                        <rect key="frame" x="146" y="22" width="84.5" height="20.5"/>
+                                        <rect key="frame" x="146" y="22.5" width="84.5" height="20.5"/>
                                         <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="10"/>
                                         <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         <nil key="highlightedColor"/>
@@ -1513,7 +1513,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Learning" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SgG-7Y-bvi">
-                                <rect key="frame" x="131.5" y="22.5" width="112" height="20.5"/>
+                                <rect key="frame" x="131.5" y="22" width="112" height="20.5"/>
                                 <fontDescription key="fontDescription" name="RoundishToons" family="Roundish Toons" pointSize="10"/>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
